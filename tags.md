@@ -17,10 +17,7 @@ main_nav: true
     <ul class="tags-posts">
     {% for post in site.categories[cat] %}
       <li>
-        <strong>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </strong>
-        <span class="post-date">- {{ post.date | date_to_long_string }}</span>
+          <a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
     {% endfor %}
     </ul>
