@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Daily Coding"
-permalink: /coding/
+permalink: /daily/
 main_nav: true
 ---
 
