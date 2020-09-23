@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: Tech Blog by rocket191
-subtitle: "There is a difference between knowing the path and walking the path"
+subtitle: "There is a difference between knowing the path and walking the path. ― Morpheus"
 email: kowoonz@gmail.com
 name: kowoonz
 description: >
@@ -44,10 +44,10 @@ jekyll-archives:
   layout: 'archive'
   permalinks:
     category: '/category/:name/'
-    tags: '/tags/:name/'
+    tag: '/tags/:name/'
 
 # Disqus comments
-disqus_shortname: jake191
+disqus_shortname: https-rocket191-github-io
 
 # Google analytics
 ga_tracking_id: UA-139580261-1
