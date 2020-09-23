@@ -44,7 +44,7 @@ jekyll-archives:
   layout: 'archive'
   permalinks:
     category: '/category/:name/'
-    tag: '/tags/:name/'
+    tags: '/tags/:name/'
 
 # Disqus comments
 # disqus_shortname: bencentra
@@ -81,25 +81,25 @@ social:
     username: TheBenCentra
     url: https://twitter.com/TheBenCentra
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
     username: thebencentra
     url: ""
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
-    username: kowoonz
+    username: @rocket191
     url: https://github.com/rocket191
     desc: Fork me on GitHub
-    share: false
+    share: true
 
   - name: LinkedIn
     icon: linkedin
-    username: kowoonz
+    username: @jake191
     url: https://www.linkedin.com/in/jake191/
     desc: Connect with me on LinkedIn
     share: true
@@ -109,7 +109,7 @@ social:
     username: ""
     url: ""
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
@@ -120,22 +120,22 @@ social:
 
   - name: Instagram
     icon: instagram
-    username: ""
-    url: ""
+    username: @kowoonz
+    url: https://www.instagram.com/kowoonz/
     desc: Follow me on Instagram
-    share: false
+    share: true
 
   - name: Pinterest
     icon: pinterest
     username: ""
     url: ""
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
-    username: ""
-    url: ""
+    username: @kowoonz
+    url: https://soundcloud.com/kowoonz
     desc: Follow me on SoundCloud
     share: false
 
@@ -176,8 +176,8 @@ social:
 
   - name: Reddit
     icon: reddit
-    username: ""
-    url: ""
+    username: @kowoonz
+    url: https://www.reddit.com/user/kowoonz
     desc: Share to Reddit
     share: true
 
