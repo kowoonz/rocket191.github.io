@@ -14,7 +14,7 @@ subtitle: "There is a difference between knowing the path and walking the path. 
 email: kowoonz@gmail.com
 name: kowoonz
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  There is a difference between knowing the path and walking the path. ― Morpheus.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -134,8 +134,8 @@ social:
 
   - name: SoundCloud
     icon: soundcloud
-    username: kowoonz
-    url: https://soundcloud.com/kowoonz
+    username: ""
+    url: ""
     desc: Follow me on SoundCloud
     share: false
 
@@ -176,8 +176,8 @@ social:
 
   - name: Reddit
     icon: reddit
-    username: kowoonz
-    url: https://www.reddit.com/user/kowoonz
+    username: ""
+    url: ""
     desc: Share to Reddit
     share: true
 
