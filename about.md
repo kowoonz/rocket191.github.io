@@ -5,6 +5,10 @@ permalink: /about/
 main_nav: true
 ---
 
+![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+
+This is Rocket191 project tech blog.
+
 길을 아는 것과 그 길을 걷는 것은 다르다.
 
 <hr>
