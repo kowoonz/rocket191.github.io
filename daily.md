@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "TIL"
-permalink: /til/
+title: "Daily Coding"
+permalink: /coding/
 main_nav: true
 ---
 
