@@ -118,15 +118,19 @@ layout: default
 	</section>
 {% endif %}
 
+{% if site.disqus_shortname %}
+{% unless page.disqus_disabled %}
 <section class="disqus">
   <script src="https://utteranc.es/client.js"
-    repo="kowoonz/rocket191.github.io"
+    repo="kowoonz/rocket191-comments"
     issue-term="pathname"
     theme="github-light"
     crossorigin="anonymous"
     async>
   </script>
 </section>
+{% endunless %}
+{% endif %}
 
 </div>
 </div>
