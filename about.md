@@ -9,7 +9,9 @@ main_nav: true
 
 This is Rocket191 project tech blog.
 
-길을 아는 것과 그 길을 걷는 것은 다르다.
+"There’s a difference between knowing the path and walking the path." ― Morpheus
+
+"길을 아는 것과 그 길을 걷는 것은 다르다."
 
 <hr>
 
