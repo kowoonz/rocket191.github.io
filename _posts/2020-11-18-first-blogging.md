@@ -3,7 +3,7 @@ layout: post
 title:  "첫번째 글 작성"
 date:   2020-11-18T10:38:00-05:00
 author: kowoonz
-categories: post
+tags: life
 sitemap: true
 ---
 
