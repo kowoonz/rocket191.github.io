@@ -5,7 +5,7 @@ permalink: /tags/
 main_nav: true
 ---
 
-{% for category in site.categories %}
+{% for category in site.tags %}
   {% capture cat %}{{ category | first }}{% endcapture %}
   <h2 id="{{cat}}">{{ cat | capitalize }}</h2>
   {% for desc in site.descriptions %}
