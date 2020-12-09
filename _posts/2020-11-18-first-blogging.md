@@ -3,7 +3,7 @@ layout: post
 title:  "첫번째 글 작성"
 date:   2020-11-18T10:38:00-05:00
 author: kowoonz
-categories: blog
+categories: post
 sitemap: true
 ---
 
@@ -17,7 +17,7 @@ sitemap: true
 
 이제는 내가 가진 노하우와 기술들 그리고 나의 일상을 써내려 가려한다
 
-조바심내지말고 꾸준하이 하나씩 해보자 김고운.
+조바심내지말고 꾸준하이 하나씩 해보자.
 
 <!--
 공동프로젝트 1
