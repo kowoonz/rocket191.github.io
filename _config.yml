@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: Tech Blog by rocket191
-subtitle: "Fall forward"
+subtitle: "There is a difference between knowing the path and walking the path."
 email: kowoonz@gmail.com
 name: kowoonz
 description: >
-  There is a difference between knowing the path and walking the path. ― Morpheus.
+  Fall foward.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
