@@ -7,7 +7,7 @@ main_nav: true
 
 {% for category in site.tags %}
   {% capture cat %}{{ category | first }}{% endcapture %}
-  <h2 id="{{cat}}">{{ cat | capitalize }}</h2>
+  <h3 id="{{cat}}">{{ cat | capitalize }}</h3>
   {% for desc in site.descriptions %}
     {% if desc.cat == cat %}
       <p class="desc"><em>{{ desc.desc }}</em></p>
@@ -15,7 +15,7 @@ main_nav: true
   {% endfor %}
   <div class="tags">
     <ul class="tags-posts">
-    {% for post in site.categories[cat] %}
+    {% for post in site.tags[cat] %}
       <li>
           <a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
